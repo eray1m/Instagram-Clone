@@ -1,0 +1,29 @@
+::placeholder {
+    background-image: url(assets/magnifying-glass-solid.svg);
+    background-repeat: no-repeat;
+    text-align: center;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+    font-size: 15px;
+    padding-bottom: 1%;
+}
+
+.storypic {
+    margin:8px ;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+}
+.text-dark {
+    font-weight: 400;
+}
+#savebutton {
+    float:right;
+}
+.like-comment-share {
+    font-size: 25px;
+    margin-left: 5px;
+}
+.postuserlike {
+    margin-left: 10px;
+}
